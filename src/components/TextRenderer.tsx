@@ -16,6 +16,7 @@ const TextRenderer: FC<TextProps> = ({ richTextArr }) => {
             <a
               key={index}
               href={richText.href}
+              target="_blank"
               className={`${linkName} ${className}`}
             >
               {richText.plain_text}
