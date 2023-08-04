@@ -2,8 +2,8 @@
   "name": "krish-notion-block-renderer",
   "version": "2.3.13",
   "description": "Notion Block to React Components.",
-  "main": "dist/index.js",
-  "types": "./dist/index.d.ts",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
   "scripts": {
     "test": "jest",
     "build": "rm -r dist; tsc; rm -r dist/__test__; rm -r dist/example; yarn test -u;",
