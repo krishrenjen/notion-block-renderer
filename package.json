@@ -1,5 +1,5 @@
 {
-  "name": "notion-block-renderer",
+  "name": "krish-notion-block-renderer",
   "version": "2.3.13",
   "description": "Notion Block to React Components.",
   "main": "dist/index.js",
