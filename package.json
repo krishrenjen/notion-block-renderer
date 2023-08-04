@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/takux/notion-block-renderer.git"
+    "url": "git+https://github.com/krishrenjen/notion-block-renderer.git"
   },
   "author": "Takuma Fujimoto",
   "keywords": [
@@ -27,7 +27,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/takux/notion-block-renderer/issues"
+    "url": "https://github.com/krishrenjen/notion-block-renderer.git/issues"
   },
   "homepage": "https://github.com/takux/notion-block-renderer#readme",
   "devDependencies": {
